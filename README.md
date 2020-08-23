@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá amigos! 👋
+✨ Sou um FullStack Developer ✨  
 
-<!--
-**AlexandreRHeck/AlexandreRHeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-Here are some ideas to get you started:
+- 🚀 Buscando novos desafios.   
+- ⚡  Buscando colaborar com projetos desafiadores.   
+- 💻 Minha stack: HTML, CSS e JavaScript.   
+- 📘 Estudando: Flutter, React Native, Unity    
+- 💬 Sobre mim: Curuioso nato em busca de aprender tudo ao maximo sempre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="25" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
