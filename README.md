@@ -5,8 +5,8 @@
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: HTML, CSS e JavaScript.   
-- 📘 Estudando: Flutter, React Native, Unity    
+- 💻 Minha stack: Python,C#.   
+- 📘 Estudando: JavaScript(React Native),Dart(Flutter), Unity    
 - 💬 Sobre mim: Curioso nato em busca de aprender tudo ao maximo sempre.
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
