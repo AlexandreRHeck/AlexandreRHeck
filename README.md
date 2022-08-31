@@ -12,7 +12,7 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="25" src=></a></code>
 
 
 
