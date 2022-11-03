@@ -5,7 +5,7 @@
 
 - 🚀 Buscando novos desafios.   
 - ⚡  Buscando colaborar com projetos desafiadores.   
-- 💻 Minha stack: Python,C#.   
+- 💻 Minha stack: Python.   
 - 📘 Estudando: JavaScript(React Native),Dart(Flutter), Unity    
 - 💬 Sobre mim: Curioso nato em busca de aprender tudo ao maximo sempre.
 
