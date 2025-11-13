@@ -1,9 +1,3 @@
-Com certeza!
-
-Com base na sua atualização (de volta ao Python e Jogos) e seguindo o padrão que você gostou, aqui está uma nova versão do seu README.
-
-Eu removi toda a menção a Kotlin/Android e reforcei sua experiência de 8 anos em dados com sua paixão por desenvolvimento de jogos.
-
 Hey Guys! 👋
 ✨ Game Developer | Python Developer | Data & Process Analyst ✨
 
